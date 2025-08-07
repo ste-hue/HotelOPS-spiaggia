@@ -1,0 +1,5660 @@
+{
+  "processed_emails": {
+    "1980ef48ece715f7": {
+      "processed_at": "2025-07-16T17:55:48.104934",
+      "data_report": "15/07/2025",
+      "hash": "819bfcafd09cf42a19a591c9613a7fef"
+    },
+    "19804c9047444bda": {
+      "processed_at": "2025-07-16T17:55:49.141291",
+      "data_report": "13/07/2025",
+      "hash": "04dbf84f892ac785e15214b853117f07"
+    },
+    "1981950b19c8c576": {
+      "processed_at": "2025-07-17T21:50:16.014124",
+      "data_report": "17/07/2025",
+      "hash": "95683f958534f9bd68b013ef6354b975"
+    },
+    "19809d1f00e5481c": {
+      "processed_at": "2025-07-17T22:01:22.200429",
+      "data_report": "14/07/2025",
+      "hash": "78a2e8080b25989853eda19aa49cf9d6"
+    },
+    "1983855341379eb0": {
+      "processed_at": "2025-07-24T02:05:40.650024",
+      "data_report": "23/07/2025",
+      "hash": "585577483f231f64cb4bdec352eede59"
+    },
+    "19833266496e7741": {
+      "processed_at": "2025-07-24T02:05:41.026645",
+      "data_report": "22/07/2025",
+      "hash": "a8cdf236a5c41ef17362de42d7162ac4"
+    },
+    "1983d72bf9332ca0": {
+      "processed_at": "2025-07-25T02:00:08.199764",
+      "data_report": "24/07/2025",
+      "hash": "530730296cdec16177441ef6330842cf"
+    }
+  },
+  "consumi_data": [
+    {
+      "periodo_dal": "14/07/2025 18:43:28",
+      "periodo_al": "15/07/2025 18:39:20",
+      "data_report": "15/07/2025",
+      "numero_incassi": 107,
+      "totale_incassi": 1594.0,
+      "numero_scontrini": 107,
+      "totale_scontrini": 1594.0,
+      "prodotti": [
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 5,
+          "importo": 45.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 6,
+          "importo": 54.0
+        },
+        {
+          "nome": "VINO BIANCO - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 20.0
+        },
+        {
+          "nome": "VINO BIANCO - BOTTIGLIA",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 40.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 12,
+          "importo": 18.0
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 41,
+          "importo": 61.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 22.0
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 22.0
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 9.0
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 27.5
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 7,
+          "importo": 24.5
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 9,
+          "importo": 31.5
+        },
+        {
+          "nome": "GRANITA MENTA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 0.0
+        },
+        {
+          "nome": "LURISIA CHINOTTO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "SCHWEPPES TONICA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 5,
+          "importo": 60.0
+        },
+        {
+          "nome": "PATATINE FRITTE",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 3,
+          "importo": 21.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 10,
+          "importo": 15.0
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "CORNETTO MANGO E VANIGLIA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "CREMINO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "CUCCIOLONE MAXI",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "FERRERO CIOCCOLATO BIANCO E PISTACCHIO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "FRIGO CHUCHES",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "KINDER BUENO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "LIUK",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "MAGNUM BIANCO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "MAGNUM DOUBLE NOCCIOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM MANDORLE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "SNICKERS BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FRESELLA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "INSALATA PANORAMA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 5,
+          "importo": 75.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "PANINO PARMA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "CHUPA CHUPS",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.0
+        },
+        {
+          "nome": "FONZIES",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 4,
+          "importo": 6.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO POMODORO",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO VIVACE",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 45.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 8,
+          "importo": 310.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 40.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 70.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 4,
+          "importo": 90.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 50.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 20.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "SERVIZIO SOTTO L'OMBRELLONE",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 2,
+          "importo": 5.0
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:11",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 15:25",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        },
+        {
+          "data_ora": "15/07/2025 16:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ESTATHE PESCA"
+        },
+        {
+          "data_ora": "15/07/2025 16:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA ZERO 45 CL"
+        },
+        {
+          "data_ora": "15/07/2025 16:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "15/07/2025 16:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA 45 CL"
+        },
+        {
+          "data_ora": "15/07/2025 16:29",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SODA"
+        },
+        {
+          "data_ora": "15/07/2025 16:29",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "15/07/2025 16:29",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "RAVIOLI"
+        }
+      ],
+      "email_id": "1980ef48ece715f7",
+      "email_subject": "Report Panorama Beach 15/07/2025 18:39:21",
+      "email_date": "Tue, 15 Jul 2025 16:39:24 +0000",
+      "processed_at": "2025-07-16T17:55:48.104912",
+      "content_hash": "819bfcafd09cf42a19a591c9613a7fef"
+    },
+    {
+      "periodo_dal": "12/07/2025 18:55:19",
+      "periodo_al": "13/07/2025 19:15:32",
+      "data_report": "13/07/2025",
+      "numero_incassi": 162,
+      "totale_incassi": 3314.5,
+      "numero_scontrini": 159,
+      "totale_scontrini": 3228.0,
+      "prodotti": [
+        {
+          "nome": "TRIS DI MELONI",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 6.0
+        },
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 11,
+          "importo": 99.0
+        },
+        {
+          "nome": "CAMPARI SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 27.0
+        },
+        {
+          "nome": "CEDRATA TASSONI",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "CRODINO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "GIN TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "HUGO SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 27.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 7,
+          "importo": 63.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "PROSECCO - BOTTIGLIA",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 30.0
+        },
+        {
+          "nome": "VINO ROSSO- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "VODKA TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 22,
+          "importo": 33.0
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 59,
+          "importo": 88.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 15,
+          "importo": 82.5
+        },
+        {
+          "nome": "Birra Analcolica Tourtel cl.33",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 4.0
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 5.5
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 27.0
+        },
+        {
+          "nome": "BIRRA ICNUSA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 7,
+          "importo": 31.5
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 33.0
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 12,
+          "importo": 42.0
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 18,
+          "importo": 63.0
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 21.0
+        },
+        {
+          "nome": "ESTATHE ZERO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 18.0
+        },
+        {
+          "nome": "LEMON SODA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "POWERADE ARANCIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "POWERADE BLU 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "Bacon Burger",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 5,
+          "importo": 60.0
+        },
+        {
+          "nome": "BACON CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 3,
+          "importo": 36.0
+        },
+        {
+          "nome": "PATATINE FRITTE",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 1,
+          "importo": 7.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 42,
+          "importo": 63.0
+        },
+        {
+          "nome": "CAFFE AL GINSENG",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "CORNETTO A MARMELLATA",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "CORNETTO ALLA CREMA",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 6.0
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "GNOCCHI SORRENTINA",
+          "reparto": "CUCINA",
+          "quantita": 3,
+          "importo": 36.0
+        },
+        {
+          "nome": "INSALATA DI MARE",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 15.0
+        },
+        {
+          "nome": "Penne al pomodoro",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 20.0
+        },
+        {
+          "nome": "RAVIOLI",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 26.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FERRERO AL COCCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "FRIGO CHUCHES",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "KINDER BUENO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "LIUK",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "MAGNUM BOMBONIERE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM DOUBLE NOCCIOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM MANDORLE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "MARS",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SNICKERS BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SNICKERS PEANUT BUTTER",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "TREASURE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "TWIX",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "YOGURETTE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "CAESAR SALAD",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "CAPONATA AMALFITANA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "INSALATA GRECA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "INSALATA PANORAMA",
+          "reparto": "INSALATE",
+          "quantita": 6,
+          "importo": 72.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 4,
+          "importo": 32.0
+        },
+        {
+          "nome": "BRUSCHETTONE 3 POMODORI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "BRUSCHETTONE CUORE DI MORTADELLA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "PANINO CAPRI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 4,
+          "importo": 36.0
+        },
+        {
+          "nome": "PANINO CON COTTO",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 16.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "PANINO PARMA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 5,
+          "importo": 45.0
+        },
+        {
+          "nome": "PANINO PARMIGIANINO",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 20.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 6,
+          "importo": 15.0
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "FRITTATINA DI PASTA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 11,
+          "importo": 33.0
+        },
+        {
+          "nome": "PARCHEGGIO",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 20.0
+        },
+        {
+          "nome": "SPIAGGIA ABBONAMNETO",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 190.0
+        },
+        {
+          "nome": "SPIAGGIA GIORNALIERO",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 60.0
+        },
+        {
+          "nome": "CIPSTER",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 3.0
+        },
+        {
+          "nome": "FONZIES",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO POMODORO",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO VIVACE",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO RUSTICA",
+          "reparto": "SNACK",
+          "quantita": 5,
+          "importo": 7.5
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "PRINGLES PAPRIKA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "3° PEZZO",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 7,
+          "importo": 385.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 7,
+          "importo": 310.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 100.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 7,
+          "importo": 275.0
+        },
+        {
+          "nome": "SERVIZIO CONSEGNA OMBRELLONE",
+          "reparto": "SPIAGGIA 50%",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 90.0
+        },
+        {
+          "nome": "SERVIZIO SOTTO L'OMBRELLONE",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "SUCCO YOGA ALBICOCCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "13/07/2025 08:52",
+          "operatore": "",
+          "tipo": "Rimozione prodotto",
+          "valore": "da 2 a 1",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "13/07/2025 11:47",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "APEROL SPRITZ"
+        },
+        {
+          "data_ora": "13/07/2025 13:07",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "POWERADE ARANCIA 50 CL"
+        },
+        {
+          "data_ora": "13/07/2025 13:13",
+          "operatore": "",
+          "tipo": "Rimozione prodotto",
+          "valore": "da 5 a 4",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "13/07/2025 14:59",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BRUSCHETTONE CUORE DI MORTADELLA"
+        },
+        {
+          "data_ora": "13/07/2025 14:59",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA HEINEKEIN"
+        }
+      ],
+      "email_id": "19804c9047444bda",
+      "email_subject": "Report Panorama Beach 13/07/2025 19:15:33",
+      "email_date": "Sun, 13 Jul 2025 17:15:39 +0000",
+      "processed_at": "2025-07-16T17:55:49.141254",
+      "content_hash": "04dbf84f892ac785e15214b853117f07"
+    },
+    {
+      "periodo_dal": "15/07/2025 18:39:21",
+      "periodo_al": "17/07/2025 18:56:12",
+      "data_report": "17/07/2025",
+      "numero_incassi": 241,
+      "totale_incassi": 6235.5,
+      "numero_scontrini": 232,
+      "totale_scontrini": 6042.5,
+      "prodotti": [
+        {
+          "nome": "PROSCIUTTO E MOZZARELLA",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "TRIS DI MELONI",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 6.0
+        },
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 9,
+          "importo": 81.0
+        },
+        {
+          "nome": "CAMPARI SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 27.0
+        },
+        {
+          "nome": "GIN TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 27.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 33,
+          "importo": 297.0
+        },
+        {
+          "nome": "LIMONCELLO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 12,
+          "importo": 60.0
+        },
+        {
+          "nome": "VINO BIANCO - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 6,
+          "importo": 30.0
+        },
+        {
+          "nome": "VINO ROSE'- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "VODKA TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 35,
+          "importo": 52.5
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 83,
+          "importo": 124.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 22,
+          "importo": 121.0
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 17,
+          "importo": 93.5
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 18.0
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 13,
+          "importo": 71.5
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 24,
+          "importo": 84.0
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 13,
+          "importo": 45.5
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 8,
+          "importo": 28.0
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 19,
+          "importo": 57.0
+        },
+        {
+          "nome": "GRANITA MENTA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "LEMON SODA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "LURISIA CHINOTTO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "POWERADE ARANCIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "POWERADE BLU 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "SCHWEPPES TONICA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "BACON CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 6,
+          "importo": 90.0
+        },
+        {
+          "nome": "CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 3,
+          "importo": 36.0
+        },
+        {
+          "nome": "PATATINE FRITTE",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 6,
+          "importo": 42.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 41,
+          "importo": 61.5
+        },
+        {
+          "nome": "CAFFE AL GINSENG",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CAFFE AMERICANO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "CAFFE DECAFFEINATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 8,
+          "importo": 16.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 25,
+          "importo": 62.5
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "ORZO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "FRITTURA DI PESCE",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 18.0
+        },
+        {
+          "nome": "GNOCCHI SORRENTINA",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 24.0
+        },
+        {
+          "nome": "Mezzi paccheri alla carbonara",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 13.0
+        },
+        {
+          "nome": "Penne al pomodoro",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "RAVIOLI",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 13.0
+        },
+        {
+          "nome": "Spaghetti alle vongole",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 32.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "CROCCANTE AMARENA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CUCCIOLONE MAXI",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "FERRERO CIOCCOLATO BIANCO E PISTACCHIO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "FREDDOLONE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "FRIGO CHUCHES",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "KINDER BUENO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "MAGNUM BIANCO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM BOMBONIERE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM DOUBLE NOCCIOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MARS",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "POCKET COFFEE CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "ROCHER CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "SNICKERS",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SNICKERS BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SNICKERS PEANUT BUTTER",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "TREASURE",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "CAESAR SALAD",
+          "reparto": "INSALATE",
+          "quantita": 7,
+          "importo": 84.0
+        },
+        {
+          "nome": "CAPONATA AMALFITANA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "INSALATA NIZZARDA",
+          "reparto": "INSALATE",
+          "quantita": 2,
+          "importo": 24.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 6,
+          "importo": 48.0
+        },
+        {
+          "nome": "BRUSCHETTONE 3 POMODORI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 16.0
+        },
+        {
+          "nome": "BRUSCHETTONE CUORE DI MORTADELLA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "PANINO CAPRI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 6,
+          "importo": 54.0
+        },
+        {
+          "nome": "PANINO CETARA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "PANINO PARMA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FRITTATINA DI PASTA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 13,
+          "importo": 39.0
+        },
+        {
+          "nome": "SPIAGGIA ON LINE",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 2395.0
+        },
+        {
+          "nome": "ARACHIDI",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "CHUPA CHUPS",
+          "reparto": "SNACK",
+          "quantita": 4,
+          "importo": 4.0
+        },
+        {
+          "nome": "CIPSTER",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "CROSTINI DORATI CLASSICI",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO RUSTICA",
+          "reparto": "SNACK",
+          "quantita": 6,
+          "importo": 9.0
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "PRINGLES PAPRIKA",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "3° PEZZO",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 45.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 19,
+          "importo": 695.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 3,
+          "importo": 85.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 5,
+          "importo": 145.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 3,
+          "importo": 75.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 5,
+          "importo": 150.0
+        },
+        {
+          "nome": "SERVIZIO CONSEGNA OMBRELLONE",
+          "reparto": "SPIAGGIA 50%",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 5,
+          "importo": 110.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 25.0
+        },
+        {
+          "nome": "SERVIZIO SOTTO L'OMBRELLONE",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "ACE",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA ARANCIA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SUCCO YOGA MELA VERDE 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA PERA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "SUCCO YOGA PESCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "16/07/2025 11:05",
+          "operatore": "",
+          "tipo": "Rimozione prodotto",
+          "valore": "da 2 a 1",
+          "articolo": "CORNETTO AL CIOCCOLATO"
+        },
+        {
+          "data_ora": "16/07/2025 11:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO AL CIOCCOLATO"
+        },
+        {
+          "data_ora": "16/07/2025 12:08",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO AI FRUTTI ROSSI"
+        },
+        {
+          "data_ora": "17/07/2025 11:47",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE MACCHIATO"
+        },
+        {
+          "data_ora": "17/07/2025 11:47",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE MACCHIATO"
+        },
+        {
+          "data_ora": "17/07/2025 11:47",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE MACCHIATO"
+        },
+        {
+          "data_ora": "17/07/2025 11:47",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE MACCHIATO"
+        },
+        {
+          "data_ora": "17/07/2025 11:58",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "Bacon Burger"
+        },
+        {
+          "data_ora": "17/07/2025 12:44",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "17/07/2025 14:43",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPONATA AMALFITANA"
+        },
+        {
+          "data_ora": "17/07/2025 14:43",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAESAR SALAD"
+        },
+        {
+          "data_ora": "17/07/2025 14:43",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        }
+      ],
+      "email_id": "1981950b19c8c576",
+      "email_subject": "Report Panorama Beach 17/07/2025 18:56:13",
+      "email_date": "Thu, 17 Jul 2025 16:56:14 +0000",
+      "processed_at": "2025-07-17T21:50:16.014063",
+      "content_hash": "95683f958534f9bd68b013ef6354b975"
+    },
+    {
+      "periodo_dal": "13/07/2025 19:15:33",
+      "periodo_al": "14/07/2025 18:43:28",
+      "data_report": "14/07/2025",
+      "numero_incassi": 123,
+      "totale_incassi": 1370.0,
+      "numero_scontrini": 120,
+      "totale_scontrini": 1220.5,
+      "prodotti": [
+        {
+          "nome": "TRIS DI MELONI",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 6.0
+        },
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 36.0
+        },
+        {
+          "nome": "CRODINO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "GIN TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "HUGO SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 36.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "VINO BIANCO - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "VINO ROSE'- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 15.0
+        },
+        {
+          "nome": "VODKA TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 24,
+          "importo": 36.0
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 46,
+          "importo": 69.0
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 8,
+          "importo": 44.0
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 27.0
+        },
+        {
+          "nome": "BIRRA ICNUSA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 27.0
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 7,
+          "importo": 38.5
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 10,
+          "importo": 35.0
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 18.0
+        },
+        {
+          "nome": "GRANITA MENTA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "LURISIA CHINOTTO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "POWERADE ARANCIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "POWERADE BLU 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "SCHWEPPES TONICA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "BACON CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 1,
+          "importo": 15.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 15,
+          "importo": 22.5
+        },
+        {
+          "nome": "CAFFE AL GINSENG",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "CAFFE AMERICANO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 10.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 9,
+          "importo": 22.5
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "GNOCCHI SORRENTINA",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "RAVIOLI",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 13.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "CORNETTO MANGO E VANIGLIA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "CUCCIOLONE MAXI",
+          "reparto": "GELATI",
+          "quantita": 7,
+          "importo": 24.5
+        },
+        {
+          "nome": "FERRERO CIOCCOLATO BIANCO E PISTACCHIO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FREDDOLONE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "MAGNUM BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "MAGNUM BOMBONIERE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "MAGNUM CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "MAGNUM DOUBLE NOCCIOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "POCKET COFFEE CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "SNICKERS BIANCO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SNICKERS PEANUT BUTTER",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "TREASURE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "TWIX",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CAPONATA AMALFITANA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "CAPRESE",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "FRESELLA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "PANINO PARMA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 8,
+          "importo": 24.0
+        },
+        {
+          "nome": "CHUPA CHUPS",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 3.0
+        },
+        {
+          "nome": "CROSTINI DORATI CLASSICI",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "FONZIES",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO POMODORO",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "PRINGLES PAPRIKA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 5,
+          "importo": 190.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA MELA VERDE 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 2,
+          "importo": 5.0
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "14/07/2025 12:07",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO AL CIOCCOLATO"
+        },
+        {
+          "data_ora": "14/07/2025 12:27",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CRODINO"
+        },
+        {
+          "data_ora": "14/07/2025 12:27",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA ZERO 45 CL"
+        },
+        {
+          "data_ora": "14/07/2025 14:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO AL CIOCCOLATO"
+        },
+        {
+          "data_ora": "14/07/2025 14:44",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "GRANITA LIMONE"
+        },
+        {
+          "data_ora": "14/07/2025 14:44",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "14/07/2025 16:43",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        }
+      ],
+      "email_id": "19809d1f00e5481c",
+      "email_subject": "Report Panorama Beach 14/07/2025 18:43:28",
+      "email_date": "Mon, 14 Jul 2025 16:43:29 +0000",
+      "processed_at": "2025-07-17T22:01:22.200384",
+      "content_hash": "78a2e8080b25989853eda19aa49cf9d6"
+    },
+    {
+      "periodo_dal": "22/07/2025 19:20:03",
+      "periodo_al": "23/07/2025 19:29:21",
+      "data_report": "23/07/2025",
+      "numero_incassi": 137,
+      "totale_incassi": 4753.0,
+      "numero_scontrini": 122,
+      "totale_scontrini": 4532.0,
+      "prodotti": [
+        {
+          "nome": "TRIS DI MELONI",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 6.0
+        },
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 8,
+          "importo": 72.0
+        },
+        {
+          "nome": "CEDRATA TASSONI",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 10.0
+        },
+        {
+          "nome": "VINO BIANCO - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "VINO ROSE'- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 20.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 25,
+          "importo": 36.0
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 51,
+          "importo": 76.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 19,
+          "importo": 104.5
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 5.5
+        },
+        {
+          "nome": "BIRRA ICNUSA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 9.0
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 8,
+          "importo": 44.0
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 10,
+          "importo": 35.0
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 11,
+          "importo": 38.5
+        },
+        {
+          "nome": "POWERADE BLU 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "BACON CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "PATATINE FRITTE",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 1,
+          "importo": 7.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 16,
+          "importo": 24.0
+        },
+        {
+          "nome": "CAFFE AMERICANO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "CORNETTO ALLA CREMA",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "CREMINO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CROCCANTE AMARENA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CUCCIOLONE MAXI",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "Donut Cacao & Cookies",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 4.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "KINDER BUENO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "MAGNUM BIANCO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "MAGNUM DOUBLE NOCCIOLA",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "MAGNUM MANDORLE",
+          "reparto": "GELATI",
+          "quantita": 6,
+          "importo": 21.0
+        },
+        {
+          "nome": "MARS",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "RAFFAELLO PEACH DREAM",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "ROCHER CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "SNICKERS",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "TWIX",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CAESAR SALAD",
+          "reparto": "INSALATE",
+          "quantita": 5,
+          "importo": 60.0
+        },
+        {
+          "nome": "CAPRESE",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "INSALATA GRECA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "INSALATA NIZZARDA",
+          "reparto": "INSALATE",
+          "quantita": 2,
+          "importo": 24.0
+        },
+        {
+          "nome": "INSALATA PANORAMA",
+          "reparto": "INSALATE",
+          "quantita": 1,
+          "importo": 12.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "BRUSCHETTONE 3 POMODORI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 3,
+          "importo": 24.0
+        },
+        {
+          "nome": "BRUSCHETTONE CUORE DI MORTADELLA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "PANINO CAPRI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 18.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FRITTATINA DI PASTA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "SPIAGGIA ON LINE",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 2810.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO POMODORO",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO VIVACE",
+          "reparto": "SNACK",
+          "quantita": 5,
+          "importo": 7.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO RUSTICA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "3° PEZZO",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 75.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 5,
+          "importo": 190.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 7,
+          "importo": 225.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 3,
+          "importo": 85.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 3,
+          "importo": 90.0
+        },
+        {
+          "nome": "SERVIZIO CONSEGNA OMBRELLONE",
+          "reparto": "SPIAGGIA 50%",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 50.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 40.0
+        },
+        {
+          "nome": "SUCCO YOGA ALBICOCCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPPUCCINO"
+        },
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE DECAFFEINATO"
+        },
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPPUCCINO"
+        },
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE DECAFFEINATO"
+        },
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE DECAFFEINATO"
+        },
+        {
+          "data_ora": "23/07/2025 12:50",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPPUCCINO"
+        }
+      ],
+      "email_id": "1983855341379eb0",
+      "email_subject": "Report Panorama Beach 23/07/2025 19:29:22",
+      "email_date": "Wed, 23 Jul 2025 17:29:23 +0000",
+      "processed_at": "2025-07-24T02:05:40.649962",
+      "content_hash": "585577483f231f64cb4bdec352eede59"
+    },
+    {
+      "periodo_dal": "17/07/2025 18:56:13",
+      "periodo_al": "22/07/2025 19:20:00",
+      "data_report": "22/07/2025",
+      "numero_incassi": 741,
+      "totale_incassi": 13755.5,
+      "numero_scontrini": 731,
+      "totale_scontrini": 13547.5,
+      "prodotti": [
+        {
+          "nome": "PARMIGIANA",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "PROSCIUTTO E MOZZARELLA",
+          "reparto": "AL PIATTO",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "TRIS DI MELONI",
+          "reparto": "AL PIATTO",
+          "quantita": 7,
+          "importo": 42.0
+        },
+        {
+          "nome": "APEROL",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 7.0
+        },
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 37,
+          "importo": 333.0
+        },
+        {
+          "nome": "BITTER BIANCO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 6,
+          "importo": 15.0
+        },
+        {
+          "nome": "CAMPARI",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "CAMPARI SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 8,
+          "importo": 72.0
+        },
+        {
+          "nome": "CEDRATA TASSONI",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "CRODINO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "GIN TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 6,
+          "importo": 54.0
+        },
+        {
+          "nome": "HUGO SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 5,
+          "importo": 45.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 14,
+          "importo": 126.0
+        },
+        {
+          "nome": "LIMONCELLO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 10.0
+        },
+        {
+          "nome": "VINO BIANCO - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 5,
+          "importo": 25.0
+        },
+        {
+          "nome": "VINO BIANCO - BOTTIGLIA",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 40.0
+        },
+        {
+          "nome": "VINO ROSE'- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 10.0
+        },
+        {
+          "nome": "VODKA TONIC",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 3,
+          "importo": 27.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 93,
+          "importo": 139.5
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 289,
+          "importo": 433.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 43,
+          "importo": 236.5
+        },
+        {
+          "nome": "Birra Analcolica Tourtel cl.33",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 8.0
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 19,
+          "importo": 104.5
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 18,
+          "importo": 72.0
+        },
+        {
+          "nome": "BIRRA ICNUSA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 27.0
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 34,
+          "importo": 187.0
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 47,
+          "importo": 164.5
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 55,
+          "importo": 192.5
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 13,
+          "importo": 45.5
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 27,
+          "importo": 94.5
+        },
+        {
+          "nome": "ESTATHE ZERO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "FANTA ORANGE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 17,
+          "importo": 51.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 31,
+          "importo": 93.0
+        },
+        {
+          "nome": "GRANITA MENTA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 18.0
+        },
+        {
+          "nome": "LEMON SODA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "LURISIA CHINOTTO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "LURISIA LIMONATA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 11,
+          "importo": 38.5
+        },
+        {
+          "nome": "POWERADE ARANCIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "POWERADE BLU 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 8,
+          "importo": 28.0
+        },
+        {
+          "nome": "RED BULL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "SCHWEPPES TONICA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "Bacon Burger",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 6,
+          "importo": 72.0
+        },
+        {
+          "nome": "BACON CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 5,
+          "importo": 60.0
+        },
+        {
+          "nome": "PATATINE FRITTE",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 7,
+          "importo": 49.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 183,
+          "importo": 274.5
+        },
+        {
+          "nome": "CAFFE AL GINSENG",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 10.0
+        },
+        {
+          "nome": "CAFFE AMERICANO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CAFFE DECAFFEINATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 10.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 16,
+          "importo": 40.0
+        },
+        {
+          "nome": "CORNETTO A MARMELLATA",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 22,
+          "importo": 44.0
+        },
+        {
+          "nome": "CORNETTO ALLA CREMA",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 5,
+          "importo": 7.5
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 61,
+          "importo": 152.5
+        },
+        {
+          "nome": "LATTE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 9.5
+        },
+        {
+          "nome": "ORZO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "FRITTURA DI PESCE",
+          "reparto": "CUCINA",
+          "quantita": 4,
+          "importo": 72.0
+        },
+        {
+          "nome": "GNOCCHI SORRENTINA",
+          "reparto": "CUCINA",
+          "quantita": 7,
+          "importo": 84.0
+        },
+        {
+          "nome": "INSALATA DI MARE",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "Mezzi paccheri alla carbonara",
+          "reparto": "CUCINA",
+          "quantita": 2,
+          "importo": 26.0
+        },
+        {
+          "nome": "Penne al pomodoro",
+          "reparto": "CUCINA",
+          "quantita": 13,
+          "importo": 130.0
+        },
+        {
+          "nome": "Spaghetti alle vongole",
+          "reparto": "CUCINA",
+          "quantita": 4,
+          "importo": 64.0
+        },
+        {
+          "nome": "BOUNTY",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 11,
+          "importo": 33.0
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 10,
+          "importo": 30.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 7,
+          "importo": 24.5
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 18,
+          "importo": 54.0
+        },
+        {
+          "nome": "CORNETTO MANGO E VANIGLIA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "CREMINO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "CROCCANTE AMARENA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "CUCCIOLONE MAXI",
+          "reparto": "GELATI",
+          "quantita": 10,
+          "importo": 35.0
+        },
+        {
+          "nome": "Donut Cacao & Cookies",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "FERRERO CIOCCOLATO BIANCO E PISTACCHIO",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "FERRERO CIOCCOLATO E CREMA PASTICCERA",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 15.0
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "FREDDOLONE",
+          "reparto": "GELATI",
+          "quantita": 11,
+          "importo": 16.5
+        },
+        {
+          "nome": "FRIGO CHUCHES",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 15,
+          "importo": 45.0
+        },
+        {
+          "nome": "KINDER BUENO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 15,
+          "importo": 45.0
+        },
+        {
+          "nome": "LIUK",
+          "reparto": "GELATI",
+          "quantita": 12,
+          "importo": 30.0
+        },
+        {
+          "nome": "MAGNUM BIANCO",
+          "reparto": "GELATI",
+          "quantita": 11,
+          "importo": 38.5
+        },
+        {
+          "nome": "MAGNUM BOMBONIERE",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "MAGNUM CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "MAGNUM MANDORLE",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "MARS",
+          "reparto": "GELATI",
+          "quantita": 12,
+          "importo": 30.0
+        },
+        {
+          "nome": "POCKET COFFEE CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "RAFFAELLO PEACH DREAM",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "ROCHER CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "SNICKERS",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SNICKERS BIANCO",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SNICKERS PEANUT BUTTER",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 14.0
+        },
+        {
+          "nome": "TREASURE",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 17,
+          "importo": 42.5
+        },
+        {
+          "nome": "TWIX",
+          "reparto": "GELATI",
+          "quantita": 5,
+          "importo": 12.5
+        },
+        {
+          "nome": "YOGURETTE",
+          "reparto": "GELATI",
+          "quantita": 6,
+          "importo": 18.0
+        },
+        {
+          "nome": "CAESAR SALAD",
+          "reparto": "INSALATE",
+          "quantita": 10,
+          "importo": 120.0
+        },
+        {
+          "nome": "CAPONATA AMALFITANA",
+          "reparto": "INSALATE",
+          "quantita": 4,
+          "importo": 40.0
+        },
+        {
+          "nome": "CAPRESE",
+          "reparto": "INSALATE",
+          "quantita": 6,
+          "importo": 60.0
+        },
+        {
+          "nome": "FRESELLA",
+          "reparto": "INSALATE",
+          "quantita": 5,
+          "importo": 50.0
+        },
+        {
+          "nome": "INSALATA GRECA",
+          "reparto": "INSALATE",
+          "quantita": 9,
+          "importo": 108.0
+        },
+        {
+          "nome": "INSALATA NIZZARDA",
+          "reparto": "INSALATE",
+          "quantita": 11,
+          "importo": 132.0
+        },
+        {
+          "nome": "INSALATA PANORAMA",
+          "reparto": "INSALATE",
+          "quantita": 10,
+          "importo": 120.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 11,
+          "importo": 88.0
+        },
+        {
+          "nome": "BRUSCHETTONE 3 POMODORI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 3,
+          "importo": 24.0
+        },
+        {
+          "nome": "BRUSCHETTONE CUORE DI MORTADELLA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 5,
+          "importo": 40.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 13,
+          "importo": 195.0
+        },
+        {
+          "nome": "PANINO CAPRI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 16,
+          "importo": 146.0
+        },
+        {
+          "nome": "PANINO CETARA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 10,
+          "importo": 93.0
+        },
+        {
+          "nome": "PANINO LIGHT",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 5,
+          "importo": 45.0
+        },
+        {
+          "nome": "PANINO PARMA",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 9,
+          "importo": 81.0
+        },
+        {
+          "nome": "PANINO PARMIGIANINO",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 3,
+          "importo": 30.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 13,
+          "importo": 32.5
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 10,
+          "importo": 30.0
+        },
+        {
+          "nome": "CROCCHE'",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 16,
+          "importo": 40.0
+        },
+        {
+          "nome": "FRITTATINA DI PASTA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 6,
+          "importo": 15.0
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 29,
+          "importo": 87.0
+        },
+        {
+          "nome": "PARCHEGGIO",
+          "reparto": "SERVIZIO",
+          "quantita": 2,
+          "importo": 50.0
+        },
+        {
+          "nome": "SPIAGGIA ABBONAMNETO",
+          "reparto": "SERVIZIO",
+          "quantita": 1,
+          "importo": 760.0
+        },
+        {
+          "nome": "SPIAGGIA GIORNALIERO",
+          "reparto": "SERVIZIO",
+          "quantita": 2,
+          "importo": 120.0
+        },
+        {
+          "nome": "ARACHIDI",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "CHUPA CHUPS",
+          "reparto": "SNACK",
+          "quantita": 10,
+          "importo": 10.0
+        },
+        {
+          "nome": "CIPSTER",
+          "reparto": "SNACK",
+          "quantita": 9,
+          "importo": 13.5
+        },
+        {
+          "nome": "CROSTINI DORATI CLASSICI",
+          "reparto": "SNACK",
+          "quantita": 7,
+          "importo": 17.5
+        },
+        {
+          "nome": "FONZIES",
+          "reparto": "SNACK",
+          "quantita": 12,
+          "importo": 18.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 12,
+          "importo": 18.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO POMODORO",
+          "reparto": "SNACK",
+          "quantita": 3,
+          "importo": 4.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO PIU' GUSTO VIVACE",
+          "reparto": "SNACK",
+          "quantita": 8,
+          "importo": 12.0
+        },
+        {
+          "nome": "PATATINE SAN CARLO RUSTICA",
+          "reparto": "SNACK",
+          "quantita": 10,
+          "importo": 15.0
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 12,
+          "importo": 24.0
+        },
+        {
+          "nome": "PRINGLES PAPRIKA",
+          "reparto": "SNACK",
+          "quantita": 6,
+          "importo": 12.0
+        },
+        {
+          "nome": "3° PEZZO",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 10.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 1,
+          "importo": 25.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 85.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 31,
+          "importo": 1120.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 13,
+          "importo": 725.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 16,
+          "importo": 535.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 25,
+          "importo": 1305.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 6,
+          "importo": 200.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 10,
+          "importo": 440.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 70.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 9,
+          "importo": 430.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 11,
+          "importo": 310.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA",
+          "quantita": 12,
+          "importo": 540.0
+        },
+        {
+          "nome": "SERVIZIO CONSEGNA OMBRELLONE",
+          "reparto": "SPIAGGIA 50%",
+          "quantita": 14,
+          "importo": 42.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 50.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 3,
+          "importo": 90.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 90.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 25.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 30.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 3,
+          "importo": 50.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 40.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - SAB/DOM",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 40.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 4,
+          "importo": 60.0
+        },
+        {
+          "nome": "SERVIZIO SOTTO L'OMBRELLONE",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "SUCCO YOGA ALBICOCCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 3,
+          "importo": 7.5
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 6,
+          "importo": 15.0
+        },
+        {
+          "nome": "SUCCO YOGA ARANCIA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "SUCCO YOGA PERA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 8,
+          "importo": 20.0
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "18/07/2025 08:44",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        },
+        {
+          "data_ora": "18/07/2025 12:10",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BACON CHEESEBURGER"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "FRITTURA DI PESCE"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA 45 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA CORONA 33 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA 45 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA CORONA 33 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BACON CHEESEBURGER"
+        },
+        {
+          "data_ora": "18/07/2025 14:05",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "FRITTURA DI PESCE"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO VUOTO"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "Mezzi paccheri alla carbonara"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPONATA AMALFITANA"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA PANORAMA"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CROCCHE'"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PARMIGIANA"
+        },
+        {
+          "data_ora": "18/07/2025 14:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "VINO BIANCO - BOTTIGLIA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAESAR SALAD"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA NASTRO AZZURRO 33 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAESAR SALAD"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPRESE"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA GRECA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA NASTRO AZZURRO 33 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAESAR SALAD"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA GRECA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA PANORAMA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPRESE"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA NASTRO AZZURRO 33 CL"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAESAR SALAD"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAPRESE"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA GRECA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "INSALATA PANORAMA"
+        },
+        {
+          "data_ora": "18/07/2025 14:24",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "18/07/2025 14:48",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "MAGNUM MANDORLE"
+        },
+        {
+          "data_ora": "18/07/2025 14:48",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO CLASSICO"
+        },
+        {
+          "data_ora": "18/07/2025 14:48",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "MAGNUM MANDORLE"
+        },
+        {
+          "data_ora": "18/07/2025 14:48",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CORNETTO CLASSICO"
+        },
+        {
+          "data_ora": "18/07/2025 14:48",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PRINGLES CLASSICA"
+        },
+        {
+          "data_ora": "18/07/2025 17:34",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "19/07/2025 12:53",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "20/07/2025 14:55",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PANINO CETARA"
+        },
+        {
+          "data_ora": "20/07/2025 14:55",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PANINO CETARA"
+        },
+        {
+          "data_ora": "20/07/2025 14:55",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PANINO CETARA"
+        },
+        {
+          "data_ora": "20/07/2025 14:55",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PANINO CETARA"
+        },
+        {
+          "data_ora": "20/07/2025 14:55",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:17",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "Penne al pomodoro"
+        },
+        {
+          "data_ora": "21/07/2025 11:17",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PANINO PARMA"
+        },
+        {
+          "data_ora": "21/07/2025 11:17",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA 45 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "APEROL SPRITZ"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PATATINE SAN CARLO RUSTICA"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "Bacon Burger"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CLUB SANDWICH"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA HEINEKEIN"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CLUB SANDWICH"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "Bacon Burger"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "BIRRA HEINEKEIN"
+        },
+        {
+          "data_ora": "21/07/2025 11:18",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "HUGO SPRITZ"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "LEMON SPRITZ"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAMPARI SPRITZ"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PATATINE SAN CARLO PIU' GUSTO POMODORO"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PATATINE SAN CARLO CLASSICA"
+        },
+        {
+          "data_ora": "21/07/2025 11:19",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "PATATINE SAN CARLO RUSTICA"
+        },
+        {
+          "data_ora": "21/07/2025 11:22",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CREMA CAFFE"
+        },
+        {
+          "data_ora": "21/07/2025 11:22",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "-",
+          "articolo": "Cancellazione prodotto"
+        },
+        {
+          "data_ora": "21/07/2025 11:22",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 11:32",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "21/07/2025 12:58",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CALZONE MOZZARELLA E POMODORO"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA ZERO 45 CL"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CHEESEBURGER"
+        },
+        {
+          "data_ora": "22/07/2025 12:26",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA ZERO 45 CL"
+        },
+        {
+          "data_ora": "22/07/2025 15:46",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE"
+        },
+        {
+          "data_ora": "22/07/2025 19:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "COCA COLA 45 CL"
+        },
+        {
+          "data_ora": "22/07/2025 19:14",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "HUGO SPRITZ"
+        }
+      ],
+      "email_id": "19833266496e7741",
+      "email_subject": "Report Panorama Beach 22/07/2025 19:20:03",
+      "email_date": "Tue, 22 Jul 2025 17:20:10 +0000",
+      "processed_at": "2025-07-24T02:05:41.026593",
+      "content_hash": "a8cdf236a5c41ef17362de42d7162ac4"
+    },
+    {
+      "periodo_dal": "23/07/2025 19:29:22",
+      "periodo_al": "24/07/2025 19:19:39",
+      "data_report": "24/07/2025",
+      "numero_incassi": 102,
+      "totale_incassi": 1637.0,
+      "numero_scontrini": 99,
+      "totale_scontrini": 1571.5,
+      "prodotti": [
+        {
+          "nome": "APEROL SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 5,
+          "importo": 45.0
+        },
+        {
+          "nome": "CRODINO",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 2,
+          "importo": 5.0
+        },
+        {
+          "nome": "HUGO SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 9.0
+        },
+        {
+          "nome": "LEMON SPRITZ",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 36.0
+        },
+        {
+          "nome": "PROSECCO  - BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 4,
+          "importo": 20.0
+        },
+        {
+          "nome": "VINO ROSE'- BICCHIERE",
+          "reparto": "APERITIVI E VINI",
+          "quantita": 1,
+          "importo": 5.0
+        },
+        {
+          "nome": "ACQUA FRIZZANTE SVEVA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 22,
+          "importo": 33.0
+        },
+        {
+          "nome": "ACQUA LILIA 50 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 33,
+          "importo": 49.5
+        },
+        {
+          "nome": "BIRRA  PORETTI ALLA SPINA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 6,
+          "importo": 33.0
+        },
+        {
+          "nome": "BIRRA CORONA 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 11.0
+        },
+        {
+          "nome": "BIRRA HEINEKEIN",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 4.5
+        },
+        {
+          "nome": "BIRRA ICNUSA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 4.5
+        },
+        {
+          "nome": "BIRRA NASTRO AZZURRO 33 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 16.5
+        },
+        {
+          "nome": "COCA COLA 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 5,
+          "importo": 17.5
+        },
+        {
+          "nome": "COCA COLA ZERO 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "ESTATHE LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "ESTATHE PESCA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 3,
+          "importo": 10.5
+        },
+        {
+          "nome": "ESTATHE ZERO",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "GRANITA ANGURIA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "GRANITA LIMONE",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 14,
+          "importo": 42.0
+        },
+        {
+          "nome": "GRANITA MENTA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "LEMON SODA",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "RED BULL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "SPRITE 45 CL",
+          "reparto": "BIBITE E BIRRE",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "CHEESEBURGER",
+          "reparto": "BURGER E PATATINE",
+          "quantita": 4,
+          "importo": 48.0
+        },
+        {
+          "nome": "CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 18,
+          "importo": 27.0
+        },
+        {
+          "nome": "CAFFE AMERICANO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CAFFE MACCHIATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 1,
+          "importo": 2.0
+        },
+        {
+          "nome": "CAPPUCCINO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "CORNETTO AL CIOCCOLATO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 3,
+          "importo": 6.0
+        },
+        {
+          "nome": "CORNETTO VUOTO",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "CREMA CAFFE",
+          "reparto": "CAFFETTERIA - COLAZIONE",
+          "quantita": 17,
+          "importo": 42.5
+        },
+        {
+          "nome": "Spaghetti alle vongole",
+          "reparto": "CUCINA",
+          "quantita": 1,
+          "importo": 16.0
+        },
+        {
+          "nome": "CALIPPO COLA",
+          "reparto": "GELATI",
+          "quantita": 3,
+          "importo": 9.0
+        },
+        {
+          "nome": "CALIPPO LIMONE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CORNETTO CHOC'N'BALL",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "CORNETTO CLASSICO",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "CORNETTO MANGO E VANIGLIA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.5
+        },
+        {
+          "nome": "CROCCANTE AMARENA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FIOR DI FRAGOLA",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "FRIGO CHUCHES",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "KINDER BUENO BIANCO",
+          "reparto": "GELATI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "KINDER CHOCOLATE",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "LIUK",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "RAFFAELLO PEACH DREAM",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "SNICKERS",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SNICKERS PEANUT BUTTER",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SOLERO",
+          "reparto": "GELATI",
+          "quantita": 2,
+          "importo": 7.0
+        },
+        {
+          "nome": "TREASURE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "Twister",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "TWIX",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "YOGURETTE",
+          "reparto": "GELATI",
+          "quantita": 1,
+          "importo": 3.0
+        },
+        {
+          "nome": "BIG TOAST",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 3,
+          "importo": 24.0
+        },
+        {
+          "nome": "BRUSCHETTONE 3 POMODORI",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 1,
+          "importo": 8.0
+        },
+        {
+          "nome": "CLUB SANDWICH",
+          "reparto": "PANINI/BRUSCHETTE",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "ARANCINO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "CALZONE MOZZARELLA E POMODORO",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "TRANCIO DI MARGHERITA",
+          "reparto": "PIZZA E FRITTI",
+          "quantita": 4,
+          "importo": 12.0
+        },
+        {
+          "nome": "CHUPA CHUPS",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.0
+        },
+        {
+          "nome": "CIPSTER",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "FONZIES",
+          "reparto": "SNACK",
+          "quantita": 1,
+          "importo": 1.5
+        },
+        {
+          "nome": "PATATINE SAN CARLO CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 2,
+          "importo": 3.0
+        },
+        {
+          "nome": "PRINGLES CLASSICA",
+          "reparto": "SNACK",
+          "quantita": 4,
+          "importo": 8.0
+        },
+        {
+          "nome": "FILA 2 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 12,
+          "importo": 450.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 4 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 4,
+          "importo": 140.0
+        },
+        {
+          "nome": "FILA 5 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 55.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA",
+          "quantita": 2,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 1 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 60.0
+        },
+        {
+          "nome": "FILA 3 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 1,
+          "importo": 25.0
+        },
+        {
+          "nome": "FILA 6 - LUGLIO - LUN/VEN",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 30.0
+        },
+        {
+          "nome": "SERVIZIO SOTTO L'OMBRELLONE",
+          "reparto": "SPIAGGIA ALLOGGIATI",
+          "quantita": 2,
+          "importo": 6.0
+        },
+        {
+          "nome": "SUCCO YOGA ALBICOCCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA ANANAS 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA ARANCIA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 4,
+          "importo": 10.0
+        },
+        {
+          "nome": "SUCCO YOGA PERA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        },
+        {
+          "nome": "SUCCO YOGA PESCA 20CL",
+          "reparto": "SUCCHI DI FRUTTA",
+          "quantita": 1,
+          "importo": 2.5
+        }
+      ],
+      "reparti": [],
+      "movimentazioni": [
+        {
+          "data_ora": "24/07/2025 13:15",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA LILIA 50 CL"
+        },
+        {
+          "data_ora": "24/07/2025 16:57",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "ACQUA FRIZZANTE SVEVA 50 CL"
+        },
+        {
+          "data_ora": "24/07/2025 16:57",
+          "operatore": "",
+          "tipo": "Cancellazione prodotto",
+          "valore": "",
+          "articolo": "CAFFE"
+        }
+      ],
+      "email_id": "1983d72bf9332ca0",
+      "email_subject": "Report Panorama Beach 24/07/2025 19:19:40",
+      "email_date": "Thu, 24 Jul 2025 17:19:46 +0000",
+      "processed_at": "2025-07-25T02:00:08.199635",
+      "content_hash": "530730296cdec16177441ef6330842cf"
+    }
+  ],
+  "last_update": "2025-07-27T02:14:37.263304"
+}

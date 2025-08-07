@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.panoramagroup.consumi</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/stefanodellapietra/.virtualenvs/hotelops_env/bin/python3</string>
+        <string>/Users/stefanodellapietra/Desktop/Projects/Companies/INTUR/INTUR_development/HotelOPS/modules/spiaggia/estrazione_consumi/sistema_consumi_ottimizzato.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/stefanodellapietra/Desktop/Projects/Companies/INTUR/INTUR_development/HotelOPS/modules/spiaggia/estrazione_consumi</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>2</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/Users/stefanodellapietra/Desktop/Projects/Companies/INTUR/INTUR_development/HotelOPS/modules/spiaggia/estrazione_consumi/launchd_stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/stefanodellapietra/Desktop/Projects/Companies/INTUR/INTUR_development/HotelOPS/modules/spiaggia/estrazione_consumi/launchd_stderr.log</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>KeepAlive</key>
+    <false/>
+</dict>
+</plist>

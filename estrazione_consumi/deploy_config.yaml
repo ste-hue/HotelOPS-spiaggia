@@ -1,0 +1,98 @@
+# Configurazione per il deployment dell'estrazione consumi spiaggia
+
+# Informazioni progetto
+project:
+  name: "Estrazione Consumi Spiaggia"
+  description: "Estrazione automatica dei dati di consumo dalla spiaggia Panorama Beach"
+  version: "1.0.0"
+
+# Configurazione Google Cloud
+google_cloud:
+  project_id: "hotelops-suite"
+  region: "europe-west1"
+  service_account_email: "drive-audit@hotelops-suite.iam.gserviceaccount.com"
+
+# Configurazione email
+email:
+  target_account: "magazzino@panoramagroup.it"
+  sender_email: "no-reply@pinapp.pro"
+  label: "consumi Spiaggia"
+
+# Configurazione Google Sheets
+sheets:
+  spreadsheet_id: "1QVjRqUUmKUIBQ5F2EXaytEVCGqrK6zcjRsxddSDv1jA"
+  sheet_name: "Foglio1"
+  spreadsheet_url: "https://docs.google.com/spreadsheets/d/1QVjRqUUmKUIBQ5F2EXaytEVCGqrK6zcjRsxddSDv1jA/edit"
+
+# Configurazione scheduling
+scheduling:
+  # Per Cloud Scheduler
+  cloud_scheduler:
+    schedule: "0 9 * * *"  # Ogni giorno alle 9:00
+    timezone: "Europe/Rome"
+
+  # Per n8n
+  n8n:
+    schedule_cron: "0 9 * * *"
+    webhook_url: "https://your-n8n-instance.com/webhook/beach-consumption"
+
+# Configurazione Cloud Function
+cloud_function:
+  name: "estrazione-consumi-spiaggia"
+  entry_point: "process_consumption"
+  runtime: "python311"
+  memory: "256MB"
+  timeout: "300s"
+  environment_variables:
+    DAYS_BACK: "7"
+    LOG_LEVEL: "INFO"
+
+# Configurazione per n8n workflow
+n8n_workflow:
+  nodes:
+    - id: "schedule_trigger"
+      type: "n8n-nodes-base.scheduleTrigger"
+      parameters:
+        rule:
+          cronExpression: "0 9 * * *"
+
+    - id: "http_request"
+      type: "n8n-nodes-base.httpRequest"
+      parameters:
+        url: "https://europe-west1-hotelops-suite.cloudfunctions.net/estrazione-consumi-spiaggia"
+        method: "POST"
+        authentication: "predefinedCredentialType"
+        nodeCredentialType: "googleApi"
+
+    - id: "email_notification"
+      type: "n8n-nodes-base.emailSend"
+      parameters:
+        toEmail: "stefano@panoramagroup.it"
+        subject: "Report Estrazione Consumi Spiaggia"
+        text: "Estrazione completata con successo"
+
+# Notifiche
+notifications:
+  success:
+    enabled: true
+    recipients:
+      - "stefano@panoramagroup.it"
+    subject: "✅ Estrazione Consumi Spiaggia - Completata"
+
+  error:
+    enabled: true
+    recipients:
+      - "stefano@panoramagroup.it"
+    subject: "❌ Estrazione Consumi Spiaggia - Errore"
+
+# Monitoraggio
+monitoring:
+  alert_on_failure: true
+  alert_on_no_new_data: false
+  retention_days: 30
+
+# Backup
+backup:
+  enabled: true
+  frequency: "weekly"
+  retention_count: 4
